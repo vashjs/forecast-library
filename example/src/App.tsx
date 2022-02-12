@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'forecast-library'
+import { OpportunityTable } from 'forecast-library'
 import 'forecast-library/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <OpportunityTable id="fgdger23hvvcst66serr1rrwrr" />
 }
 
 export default App
